@@ -14,4 +14,4 @@ A clean, responsive To-Do List web app built with HTML, CSS, and JavaScript.
 - Vanilla JavaScript
 
 ## Live Demo
-Check out the live app here: [Smart To-Do List](https://github.io)
+Check out the live app here: [Smart To-Do List](https://marvex-scoarts.github.io/smart-to-do-list/)
